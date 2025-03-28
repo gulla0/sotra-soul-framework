@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/sotra-banner.png" alt="Sotra Soul Framework Banner" width="700"/>
+  <img src="images/sotra-banner-v2.png" alt="Sotra Soul Framework Banner" width="700"/>
 </p>
 
 # 🧠 Sotra Soul Framework
