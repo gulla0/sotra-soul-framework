@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/sotra-banner.png" alt="Sotra Soul Framework Banner" width="700"/>
+</p>
+
 # 🧠 Sotra Soul Framework
 
 > A protocol and memory format for building your own soul dataset with AI.
