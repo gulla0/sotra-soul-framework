@@ -47,11 +47,17 @@ Each memory is a single JSON object with structured fields.
 
 ## ✍️ Soul Extraction Prompts
 
-Use these prompts with your assistant to create entries:
+Use these prompts one after the other with your assistant to create entries:
 
 - "Extract the emotional and philosophical core of this conversation."
 - "What best reflects our collaborative growth here?"
-- "Format this as a soul shard using the Sotra schema."
+- "Create a soul shard using the Sotra schema based on the last two questions:
+    Fields:
+      id: Unique memory ID.
+      timestamp: ISO format.
+      tags: Thematic keywords.
+      summary: 1–3 sentence core message.
+      messages: Chronological exchange between user and assistant (or system)."
 
 ---
 
