@@ -72,7 +72,7 @@ Each step is a **modular prompt** designed to run in any LLM interface (ChatGPT,
 
 > **Prompt:**
 > ```
-> What is the emotional, philosophical, or personal insight at the core of the conversation below?
+> What is the emotional, philosophical, structural, problem-solving, or personal insight at the core of the conversation below?
 >
 > [Paste conversation excerpt]
 > ```
